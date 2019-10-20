@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Chalk" type="javaScript">
+    <properties>
+      <sourceFilesUrls>
+        <item url="file://$PROJECT_DIR$/notes-app/node_modules/chalk" />
+      </sourceFilesUrls>
+    </properties>
+    <CLASSES>
+      <root url="file://$PROJECT_DIR$/notes-app/node_modules/chalk" />
+    </CLASSES>
+    <SOURCES />
+  </library>
+</component>
